@@ -1,0 +1,2 @@
+MOVE00.BAS	Movimieno de un sólo sprite en todas direcciones
+
