@@ -1,0 +1,8 @@
+Joe
+
+- Movimiento en ocho direcciones y disparos en diagonal izquierda, derecha y vertical. No hacia abajo.
+- Puede recibir tres impactos antes de morir.
+- Disponemos de 1, 3 y 5 vidas según se escoja la dificultad fácil, normal o difícil.
+- Dispara balas con una cadencia de 3 balas a la vez en pantalla.
+- Las balas llegan hasta el final de la pantalla salvo que choquen con algo.
+
